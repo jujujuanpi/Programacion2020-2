@@ -21,4 +21,4 @@ elif (IMC >= 30 and IMC < 35):
 else:
     print (f"El paciente {Nombre} presenta obesidad mórbida.")
 
-print ("Gracias por participar.")
+print ("Gracias por utilizar el calculador de IMC.")
