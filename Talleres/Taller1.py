@@ -13,11 +13,11 @@ print (IMC)
 if (IMC < 18.5):
     print (f"El paciente {Nombre} se encuentra en un estado de infrapeso.")
 elif (IMC >= 18.5 and IMC < 24.9):
-    print (f"El panciente {Nombre} se encuentra con un peso normal.")
+    print (f"El paciente {Nombre} se encuentra con un peso normal.")
 elif (IMC >= 25 and IMC < 30):
-    print (f"El panciente {Nombre} se encuentra con sobrepeso.")
+    print (f"El paciente {Nombre} se encuentra con sobrepeso.")
 elif (IMC >= 30 and IMC < 35):
-    print (f"El panciente {Nombre} presenta un estado de obesidad.")
+    print (f"El paciente {Nombre} presenta un estado de obesidad.")
 else:
     print (f"El paciente {Nombre} presenta obesidad mórbida.")
 
