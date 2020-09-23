@@ -8,7 +8,7 @@ class TortasRedondas:
         # Acción al crear el objeto
         print ("Se ha ingresado una torta nueva")
     def atributos (self):
-        print (f"Es una torta {self.forma} y tiene un sabor de {self.sabor}")
+        print (f"Es una torta {self.forma} y es de sabor a {self.sabor}")
 
 # Adición de tortas
 Torta1 = TortasRedondas ("Chocolate")
