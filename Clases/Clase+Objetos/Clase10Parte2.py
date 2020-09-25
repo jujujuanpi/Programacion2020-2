@@ -1,3 +1,5 @@
+# Clase 2020/9/23 - Clases y Objetos
+
 class Persona:
     def __init__ (self, nombreIngresado, edadIngresado, idIngresado, estaturaIngresado, pesoIngresado):
         self.raza = "Humana"
