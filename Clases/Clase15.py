@@ -1,4 +1,4 @@
-# Clase 2020/10/23 - GRÁFICOS DE TORTA
+# Clase 2020/10/23 - GRÁFICOS DE TORTA: https://colab.research.google.com/drive/1ezvVhIDghQ6Xnq-plZuvbS2DXxrHkzEG?usp=sharing#scrollTo=u4h1OxE7iNLs
 
 import matplotlib.pyplot as plt
 lenguajes = ['Java','Python','C#','JavaScript','Dart']
